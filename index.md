@@ -1,32 +1,41 @@
-## Welcome to GitHub Pages
+## Krunker.io MOD MENU v4.0.2
 
-You can use the [editor on GitHub](https://github.com/HackzDev/OSInsider.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+⭐ Info:
+➡Game Version: 4.0.2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+⭐ Mods for this game:
+➡Aimbot
+➡Chams, ESP
+➡Auto Reload
+& much more
+
+Use Guest Account, dont use your real account else it will get banned.
+
+⭐ Downloads:
+➡Mod:
+
+
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MOD LINK:
+Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+.rar file:
+krunkercentral.com
+Hacks Download Page - 4 - Krunker Central
+Click the device that applies to you then you will be redirected to the download on mega Windows: MAC: Other:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+⭐ Requirements:
+Chrome Extension - Tampermonkey
+.rar file
 
-- Bulleted
-- List
+⭐ Setup:
+1. Download the given .rar file
+2. Extract it
+3. Copy the code of the script named Hack Code.txt
+4. Go to your Tampermonkey Dashboard
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
